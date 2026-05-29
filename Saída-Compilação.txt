@@ -1,0 +1,6 @@
+﻿A construção começou em 18:08...
+1>------ Compilação iniciada: Projeto: Segundo_App_BancoDados, Configuração: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\10.0.200-preview.0.26103.119\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(383,5): message NETSDK1057: Você está usando uma versão de visualização do .NET. Veja: https://aka.ms/dotnet-support-policy
+1>C:\Users\GABRIELDACOSTAEMIDIO\Desktop\Projeto-banco-dados-ANH-main\Segundo_App_BancoDados.csproj : warning NU1901: O pacote 'NuGet.Packaging' 6.12.1 tem uma baixa vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg
+1>C:\Users\GABRIELDACOSTAEMIDIO\Desktop\Projeto-banco-dados-ANH-main\Segundo_App_BancoDados.csproj : warning NU1901: O pacote 'NuGet.Protocol' 6.12.1 tem uma baixa vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg
+1>  Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
